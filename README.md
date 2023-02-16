@@ -1,7 +1,9 @@
 <a name="readme-top"></a>
-
-  <h1><b>Hello Microverse Project</b></h1>
-
+<div align="center">
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+  <h3><b>Microverse README Template</b></h3>
+</div>
 # 📗 Table of Contents
 
 - [📖 About the project](#about-project)
@@ -146,6 +148,6 @@ Contributions, issues, and feature requests are welcome!
 
 This project is copyright of [Vivek Raj]
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/)
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
